@@ -2,6 +2,6 @@ ultralytics
 opencv-python
 streamlit
 Pillow
-deep-sort-realtime
+torch
 
 
