@@ -3,5 +3,5 @@ opencv-python
 streamlit
 Pillow
 deep-sort-realtime
-libgl1-mesa-glx
+
 
